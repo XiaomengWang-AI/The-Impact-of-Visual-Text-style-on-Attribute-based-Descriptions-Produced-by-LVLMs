@@ -1,0 +1,1 @@
+# The-Impact-of-Visual-Text-style-on-Attribute-based-Descriptions-Produced-by-LVLMs
